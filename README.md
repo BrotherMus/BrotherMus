@@ -30,7 +30,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm Mus from Malaysia.<br><br>- 🔭 I’m working as a Unity Game Developer.<br>- 📚 I'm currently learning new techniques for creating interactive game mechanics.<br>- ⚡ In my free time I play and analyze new indie games.</p>
+<p align="left">I'm Mus from Malaysia. I create mini-games for events, offline games, and simple games.<br><br>- 🔭 I’m working as a Unity Game Developer.<br>- 📚 I'm currently learning new techniques for creating interactive game mechanics.<br>-
 
 ---
 
@@ -42,6 +42,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio logo"  />
+</div>
+
+---
+
+<h3 align="left">🔥   My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ---
