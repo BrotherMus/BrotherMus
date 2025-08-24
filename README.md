@@ -24,11 +24,3 @@
   <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-PlayFab-blue?style=for-the-badge" />
 </p>
-
----
-
-<p align="center">
-  <a href="https://buymeacoffee.com/musabanas9n">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
