@@ -1,23 +1,34 @@
-# Hi, I'm Mus 👋  
-🎮 Unity Game Developer  
-
-- 🕹️ 3 years of experience in **Unity game development** (C#, PlayFab)  
-- 🚀 Founder of **Musidev Games**  
-- 🎯 Passionate about fun & interactive gaming experiences  
+<h1 align="center">Hi 👋, I'm Mus</h1>
+<h3 align="center">🎮 Unity Game Developer | Founder of Musidev Games</h3>
 
 ---
 
-### 📊 GitHub Stats  
-![Mus's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrotherMus&show_icons=true&theme=radical)
+<p align="center">
+  🕹️ 3+ years of Unity experience (C#, PlayFab) <br>
+  🚀 Passionate about building fun & interactive games <br>
+  🎯 Focused on simple and creative projects  
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
-![Unity](https://img.shields.io/badge/Engine-Unity-black?style=flat&logo=unity)  
-![C#](https://img.shields.io/badge/Code-C%23-239120?style=flat&logo=c-sharp)  
-![PlayFab](https://img.shields.io/badge/Backend-PlayFab-blue?style=flat)  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrotherMus&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
 
 ---
 
-### ☕ Support Me  
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR-LINK)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-PlayFab-blue?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR-LINK">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
